@@ -1,4 +1,4 @@
-# applied-ml-template
+# Applied Machine Learning Course Projects
 
 > Use this repo to start a professional Python project.
 
