@@ -83,3 +83,8 @@ site/
 .mypy_cache/
 .pytype/
 .cache/
+
+# ----------------------------------------
+# Practice folders to NOT publish
+# ----------------------------------------
+practice-projects/
