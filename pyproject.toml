@@ -112,7 +112,7 @@ force-sort-within-sections = true
 # Optional: Pyright checks that our type hints are correct
 [tool.pyright]
 extraPaths = ["src"]
-include = ["src"]
+include = ["src", "notebooks"]
 pythonVersion = "3.12"
 reportMissingImports = "warning"
 reportPrivateUsage = "none"
