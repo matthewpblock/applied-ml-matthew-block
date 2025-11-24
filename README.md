@@ -54,7 +54,7 @@ To reproduce this analysis, please follow the steps below. This project uses `uv
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/matthew-block/applied-ml-matthew-block.git
+git clone https://github.com/matthewpblock/applied-ml-matthew-block.git
 cd applied-ml-matthew-block
 ```
 
